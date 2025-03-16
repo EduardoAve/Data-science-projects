@@ -1,5 +1,3 @@
-# Data-science-projects
-
 # Análisis de Datos: Edad e Ingreso
 
 ## Descripción
@@ -9,6 +7,6 @@ Este repositorio contiene un análisis exploratorio de datos (EDA) enfocado en l
 2. **Análisis bivariado de las variables Age e Income EUR**: Se estudia la relación entre ambas variables para identificar posibles patrones o correlaciones.
 
 ## Contenido del repositorio
-- `notebook.ipynb`: Jupyter Notebook con el análisis completo, incluyendo visualizaciones y estadísticas descriptivas.
-- `data/`: Carpeta donde se encuentra el conjunto de datos utilizado.
+- `univariate_analysis_labour_wellbeing.ipynb`: Jupyter Notebook con el análisis univariado de la variable Age.
+- `bivariado.ipynb`: Jupyter Notebook con el análisis bivariado de Age e Income EUR.
 - `README.md`: Este archivo, con información sobre el repositorio y su contenido.
